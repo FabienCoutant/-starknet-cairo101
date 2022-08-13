@@ -1,5 +1,11 @@
 artifacts/
 
+#Idea
+.vscode
+
+# Other
+node.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
